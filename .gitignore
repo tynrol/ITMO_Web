@@ -1,0 +1,8 @@
+*/.idea
+*/*iml
+*/out
+*/lib
+*/web/WEB-INF
+Lab4_Web/*/.gradle
+Lab4_Web/wildfly
+Lab4_Web/Lab4_Web_Frontend_React
